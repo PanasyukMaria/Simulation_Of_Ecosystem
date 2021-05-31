@@ -1,0 +1,9 @@
+
+=== Sun May 30 02:48:54 2021
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were updated:
+  com.unity.ads from version 3.6.1 to 3.7.1
+  com.unity.purchasing from version 2.2.2 to 3.0.2
